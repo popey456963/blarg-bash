@@ -1,0 +1,20 @@
+WHAT FILES DO
+
+Compiler - Distributes costs and reloads names.txt
+Main - Generates Data
+↳   Calculate - Links everything togehter + Prints data out
+↳	Speed - Calculate avg speed and checks to see if speeding
+↳	Check - Makes sure registration is valid
+↳	Ticket - Increments digits in names.txt
+↳	CSVWrite - Writes to a file in a CSV Format
+Name - Generation tool for names.txt
+Reader - Sorts the files in wrong
+RemoveLine - Removes 1 line from the end of each file in wrong
+
+TODO
+
+xWrite Documentation
+✓Rename Files
+xClean up Code
+xDocument Code
+✓Make all code run automagically

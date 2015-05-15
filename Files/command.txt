@@ -1,0 +1,2 @@
+while :; do perl runawayrobot.pl >> file.txt; python2 send.py; rm file.txt; done
+Command of epicness
